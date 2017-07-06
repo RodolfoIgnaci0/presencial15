@@ -1,0 +1,25 @@
+star wars 1
+miercoles, 3 mayo
+lucas films
+ciencia ficcion
+buena, buena, buena, mala, buena, mala, buena, mala, mala, mala
+tomates asesinos
+lunes, 31 julio
+universal
+terror
+mala, mala, buena, mala, buena, mala, buena, mala, mala, mala
+indiana jones
+miercoles, 25 diciembre
+lucas films
+ficcion
+buena, buena, buena, buena, buena, mala, buena, mala, mala, mala
+otra pelicula mas
+viernes, 6 enero
+films
+romance
+malo, buena, buena, mala, buena, mala, buena, mala, mala, mala
+la momia
+domingo, 3 mayo
+universal
+ficcion
+mala, buena, buena, mala, buena, mala, mala, mala, mala, mala

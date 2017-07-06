@@ -1,0 +1,14 @@
+shampoo
+jabon
+papel_higienico
+libros
+lapices
+goma
+mochila
+mantequilla
+queso
+jamon
+huevos
+lechuga
+tomate
+palta
